@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./components/navbar";
 import Pizza from "./components/pizza";
 import Menu from "./components/menu";
+import Footer from "./components/footer";
 import "./App.css";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Navbar />
       <Pizza />
       <Menu />
+      <Footer />
     </div>
   );
 }

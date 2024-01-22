@@ -12,7 +12,7 @@ function Navbar() {
           className="d-inline-block align-top"
           alt=""
         />
-        <b>NAME's Dollar Pizza</b>
+        <b>Wei's Dollar Pizza</b>
       </a>
       <button
         class="navbar-toggler"

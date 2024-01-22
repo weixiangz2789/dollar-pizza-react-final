@@ -10,8 +10,8 @@ function Veggie() {
         <div className="card-body">
           <h5 className="card-title">Veggie Slice</h5>
           <p className="card-text">
-            It's got cheese, it's got tomato sauce, and it's only a dollar. What
-            more could you ask for?
+            You trying to be healthy but still can't resist pizza? Well then the
+            veggie slice is for you! This is guilt-free pizza at it's finest
           </p>
         </div>
         <ul className="list-group list-group-flush">

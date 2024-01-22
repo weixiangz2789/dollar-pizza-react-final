@@ -10,8 +10,8 @@ function Bbq() {
         <div className="card-body">
           <h5 className="card-title">BBQ Slice</h5>
           <p className="card-text">
-            It's got cheese, it's got tomato sauce, and it's only a dollar. What
-            more could you ask for?
+            Perhaps the most popular slice we offer. BBQ Chicken over a
+            delicious dollar pizza. What more could one want in life?
           </p>
         </div>
         <ul className="list-group list-group-flush">
